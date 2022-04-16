@@ -16,5 +16,5 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Does the `proportioned` image retain its original square proportions? X
+- Does the `distorted` image end up looking squished and, well, distorted? X
