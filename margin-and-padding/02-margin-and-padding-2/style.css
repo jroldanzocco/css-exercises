@@ -12,8 +12,8 @@ body {
   background: #fff;
   margin: 16px auto;
   padding: 10px;
-  border: red solid 2px;
   box-sizing: border-box;
+  font-weight: bold;
 }
 
 .title {
@@ -24,19 +24,25 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 0px;
-  padding: 20px;
+  padding: 16px;
+  
 }
 
 .button-container {
   background: #e3f4ff;
-  display: inline-block;
-  margin: 10px auto;
+  display: block;
+  margin: 10px 0 0 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  box-sizing: border-box;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  display: inline-block;
-  margin: 0px auto;
+  display: block;
+  margin: 2px auto ;
+  padding: 10px 32px;
+  font-weight: bold;
 }
